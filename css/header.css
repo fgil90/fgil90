@@ -1,0 +1,8 @@
+header {
+  height: 50px;
+  background-color: lightblue;
+}
+
+header ul {
+  display: flex;
+}
