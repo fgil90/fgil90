@@ -2,7 +2,7 @@
   background: linear-gradient(black, #0f262c);
 
   margin: auto;
-  padding:40px 0;
+  padding: 40px 0;
 
   display: flex;
   flex-wrap: wrap;
@@ -18,12 +18,24 @@
   background-color: white;
 }
 .portfolio-description {
-  padding: 20px;
+  width: 300px;
   font-size: 1.3rem;
 }
 
 @media screen and (min-width: 600px) {
   .portfolio-description {
-      width:50%;
+    width: 50%;
+  }
+}
+
+@media screen and (min-width: 1200px) {
+  .portfolio-description {
+    width: 70%;
+  }
+}
+
+@media screen and (min-width: 2000px) {
+  .container__portfolio {
+    padding: 0 20%;
   }
 }
