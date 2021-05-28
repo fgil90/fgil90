@@ -1,13 +1,28 @@
-html,
-body {
-  width: 100%;
-  height: auto;
+.container__tela-principal{
+    min-height:90vh;
+    background: linear-gradient(#0d0629,#09101a);
+    background-image: url(../src/trees-silhouette.png);
+    background-size:cover;
+    background-position: bottom;
 }
 
-:root{
-  --darkgrey:#262626;
-  --purple:#A328FF;
-  --orange:#FF864F;
-  --yellow:#F9F871;
-  --blue:#0098FF;
+.container__titulos{
+    height:50vh;
+
+    display: flex;
+    flex-direction: column;
+    justify-content: space-evenly;
+}
+
+h1, h2{
+    text-align: center;
+}
+h1{
+    font-size: 3rem;
+    font-weight: 800;
+}
+
+h2{
+    font-size: 2rem;
+    line-height: 3rem;
 }

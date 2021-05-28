@@ -1,8 +1,28 @@
-header {
-  height: 50px;
-  background-color: lightblue;
+header{
+  background-color: var(--backgroundColor);
 }
 
-header ul {
+a{
+  text-decoration: none;
+  color:white;
+}
+
+.navigation-menu {
   display: flex;
+  justify-content: space-evenly;
+  padding: 20px 0;
+  font-size: 1.5rem;
+}
+
+.navigation-menu li {
+  padding: 10px;
+  border-radius: 5px;
+  box-shadow: 0 7px 10px -5px whitesmoke;
+  font-weight: 600;
+}
+.navigation-menu li:hover {
+  box-shadow: 0 12px 12px -5px whitesmoke;
+  transition-property: all;
+  transition-duration: 0.3s;
+  cursor: pointer;
 }

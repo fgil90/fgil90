@@ -1,0 +1,29 @@
+.container__portfolio {
+  background: linear-gradient(black, #0f262c);
+
+  margin: auto;
+  padding:40px 0;
+
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-evenly;
+  align-items: center;
+  gap: 40px 0;
+}
+
+.portfolio-item {
+  width: 300px;
+  height: 300px;
+  border-radius: 30px;
+  background-color: white;
+}
+.portfolio-description {
+  padding: 20px;
+  font-size: 1.3rem;
+}
+
+@media screen and (min-width: 600px) {
+  .portfolio-description {
+      width:50%;
+  }
+}

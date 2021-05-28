@@ -4,41 +4,52 @@
     <meta charset="UTF-8" />
     <meta http-equiv="X-UA-Compatible" content="IE=edge" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-    <title>Home | Felipe Gil</title>
-    <link rel="stylesheet" href="css/reset.css" />
-    <link rel="stylesheet" href="css/main.css" />
-    <link rel="stylesheet" href="css/header.css">
-  </head>
+    <title>Document</title>
 
+    <link rel="preconnect" href="https://fonts.gstatic.com" />
+    <link
+      href="https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&display=swap"
+      rel="stylesheet"
+    />
+
+    <link rel="stylesheet" href="./css/reset.css" />
+    <link rel="stylesheet" href="./css/style.css" />
+    <link rel="stylesheet" href="./css/header.css" />
+    <link rel="stylesheet" href="./css/main.css" />
+    <link rel="stylesheet" href="./css/portfolio.css" />
+    <link rel="stylesheet" href="./css/footer.css" />
+  </head>
   <body>
     <header>
-      <nav class="navigation-menu">
-        <ul>
-          <li>Quem sou?</li>
-          <li>Portfolio</li>
-          <li>Projetos</li>
-          <li>Contato</li>
+      <nav>
+        <ul class="navigation-menu">
+          <a href="#"><li>Portfolio</li></a>
+          <a href="#"><li>Serviço</li></a>
+          <a href="#"><li>Contato</li></a>
         </ul>
       </nav>
     </header>
 
     <main>
-      <section>
-        <h1>Oi, eu sou o Felipe!</h1>
-        <h2>Desenvolvedor Web</h2>
-      </section>
-      <section>
-        <div class="container">Quem sou?</div>
-        <div class="container">Portfolio</div>
-        <div class="container">Projetos</div>
-        <div class="container">Contato</div>
-      </section>
-      <form>
-        <label for="name"></label><input id="name" name="Nome" type="text" />
-        <label for="email-address"></label>
-        <input name="E-mail" type="email" /> <label for="message"></label>
-        <textarea name="Mensagem" id="message" cols="30" rows="10"></textarea>
-      </form>
+      <div class="container__tela-principal">
+      <div class="container__titulos">
+        <h1>Web Design, simples</h1>
+        <h2>Felipe Gil<br />Soluções Digitais</h2>
+      </div>
+    </div>
+
+    <div class="container__portfolio">
+      <div class="portfolio-item"></div>
+      <p class="portfolio-description">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam blandit viverra sem sed aliquet. Ut et ante ut leo euismod rutrum ut at libero. Suspendisse sit amet mauris commodo, congue odio sit amet, euismod lectus. Mauris a commodo ligula. Aliquam gravida ultricies dictum. Suspendisse potenti. Cras dictum, turpis sit amet accumsan bibendum, nisi libero efficitur nulla, et suscipit dolor eros.</p>
+      <div class="portfolio-item"></div>
+      <p class="portfolio-description">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam blandit viverra sem sed aliquet. Ut et ante ut leo euismod rutrum ut at libero. Suspendisse sit amet mauris commodo, congue odio sit amet, euismod lectus. Mauris a commodo ligula. Aliquam gravida ultricies dictum. Suspendisse potenti. Cras dictum, turpis sit amet accumsan bibendum, nisi libero efficitur nulla, et suscipit dolor eros.</p>
+      <div class="portfolio-item"></div>
+      <p class="portfolio-description">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam blandit viverra sem sed aliquet. Ut et ante ut leo euismod rutrum ut at libero. Suspendisse sit amet mauris commodo, congue odio sit amet, euismod lectus. Mauris a commodo ligula. Aliquam gravida ultricies dictum. Suspendisse potenti. Cras dictum, turpis sit amet accumsan bibendum, nisi libero efficitur nulla, et suscipit dolor eros.</p>
+    </div>
+     
     </main>
+    <footer></footer>
+
+    <script type="text/javascript" src="./js/scripts.js"></script>
   </body>
 </html>
