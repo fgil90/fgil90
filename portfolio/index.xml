@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Portfolios on I blog about stuff</title>
+    <link>https://fgil90.github.io/fgil90/portfolio/</link>
+    <description>Recent content in Portfolios on I blog about stuff</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <copyright>This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License.</copyright>
+    <lastBuildDate>Tue, 12 Oct 2021 15:52:09 -0300</lastBuildDate><atom:link href="https://fgil90.github.io/fgil90/portfolio/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>My Portfolio</title>
+      <link>https://fgil90.github.io/fgil90/portfolio/portfolio/</link>
+      <pubDate>Tue, 12 Oct 2021 15:52:09 -0300</pubDate>
+      
+      <guid>https://fgil90.github.io/fgil90/portfolio/portfolio/</guid>
+      <description>PortfolioLorem ipsum dolor sit amet, consectetur adipiscing elit. Integer at dolor ultrices, interdum nunc id, blandit justo. Maecenas sit amet commodo justo. Orci varius natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Vestibulum eu tempor neque. Curabitur consequat facilisis maximus. Nunc consequat ipsum tortor. Nunc mollis in ex eget vestibulum. Integer vestibulum, urna sed varius aliquam, leo ante tempor elit, non rutrum velit est ut nunc. Nunc in cursus metus, at vulputate ex.</description>
+    </item>
+    
+  </channel>
+</rss>

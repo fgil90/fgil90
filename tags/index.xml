@@ -1,7 +1,14 @@
 <rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
-        <title>Tags - Tag - My New Hugo Site</title>
+        <title>Tags - Tag - I blog about stuff</title>
         <link>https://fgil90.github.io/fgil90/tags/</link>
-        <description>Tags - Tag - My New Hugo Site</description>
-        <generator>Hugo -- gohugo.io</generator><language>en-us</language><atom:link href="https://fgil90.github.io/fgil90/tags/" rel="self" type="application/rss+xml" /></channel>
+        <description>Tags - Tag - I blog about stuff</description>
+        <generator>Hugo -- gohugo.io</generator><language>en</language><copyright>This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License.</copyright><lastBuildDate>Mon, 11 Oct 2021 16:26:32 -0300</lastBuildDate><atom:link href="https://fgil90.github.io/fgil90/tags/" rel="self" type="application/rss+xml" /><item>
+    <title>Test</title>
+    <link>https://fgil90.github.io/fgil90/tags/test/</link>
+    <pubDate>Mon, 11 Oct 2021 16:26:32 -0300</pubDate>
+    <author>Author</author>
+    <guid>https://fgil90.github.io/fgil90/tags/test/</guid>
+    <description><![CDATA[]]></description>
+</item></channel>
 </rss>
