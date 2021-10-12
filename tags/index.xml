@@ -3,12 +3,5 @@
         <title>Tags - Tag - I blog about stuff</title>
         <link>https://fgil90.github.io/fgil90/tags/</link>
         <description>Tags - Tag - I blog about stuff</description>
-        <generator>Hugo -- gohugo.io</generator><language>en</language><copyright>This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License.</copyright><lastBuildDate>Mon, 11 Oct 2021 16:26:32 -0300</lastBuildDate><atom:link href="https://fgil90.github.io/fgil90/tags/" rel="self" type="application/rss+xml" /><item>
-    <title>Test</title>
-    <link>https://fgil90.github.io/fgil90/tags/test/</link>
-    <pubDate>Mon, 11 Oct 2021 16:26:32 -0300</pubDate>
-    <author>Author</author>
-    <guid>https://fgil90.github.io/fgil90/tags/test/</guid>
-    <description><![CDATA[]]></description>
-</item></channel>
+        <generator>Hugo -- gohugo.io</generator><language>en</language><copyright>This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License.</copyright><atom:link href="https://fgil90.github.io/fgil90/tags/" rel="self" type="application/rss+xml" /></channel>
 </rss>
