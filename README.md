@@ -3,9 +3,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=fgil90&label=Profile%20views&color=0e75b6&style=flat" alt="fgil90" /> </p>
 
-- 🔭 I’m currently working on [making a Year in Pixels kind of app](https://github.com/fgil90/year-in-pixels)
+- 🔭 I’m currently graduating in IT.
 
-- 🌱 I’m currently learning **Backend with Express and Node.js**
+- 🌱 I’m currently learning Java.
 
 - 📫 How to reach me **fgil90+dev@gmail.com or https://www.linkedin.com/in/felipe-gil-87b5b3209/**
 
