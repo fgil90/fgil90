@@ -1,39 +1,47 @@
-main{
-  height:95vh;
+main {
+  height: 95vh;
+  gap: 40px;
 }
 
-h1{
+h1 {
   text-align: center;
   font-size: 48px;
   padding: 20px;
 }
 
-nav{
-  gap:20px;
+nav {
+  gap: 20px;
 }
 
-nav>*{
+nav>* {
   height: 100px;
-  width:34%;
-
+  width: 34%;
 }
 
-nav button:hover{
+nav button:hover {
   transform: scale(110%);
   transition: 60ms;
 }
 
-nav button{
+nav button {
   height: 100%;
   width: 100%;
 }
 
-footer{
+.social {
+  gap: 10px;
+}
+
+.social i {
+  font-size: 30px;
+}
+
+footer {
   text-align: center;
 }
 
-@media screen and (min-width:640px){
- nav>*{
-   width: 140px;
- }
+@media screen and (min-width:640px) {
+  nav>* {
+    width: 140px;
+  }
 }
