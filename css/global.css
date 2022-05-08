@@ -4,3 +4,11 @@ html, body{
   background-color: rgb(48, 48, 48);
   color:rgb(218, 218, 218);
 }
+
+a{
+  color:white;
+
+}
+a:visited{
+  color:whitesmoke;
+}

@@ -1,5 +1,5 @@
 main{
-  height:100vh;
+  height:95vh;
 }
 
 h1{
@@ -26,6 +26,10 @@ nav button:hover{
 nav button{
   height: 100%;
   width: 100%;
+}
+
+footer{
+  text-align: center;
 }
 
 @media screen and (min-width:640px){
