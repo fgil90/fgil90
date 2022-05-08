@@ -1,0 +1,26 @@
+header {
+    margin: 30px 0;
+}
+
+nav {
+    gap: 10px;
+    font-size: 14px;
+}
+
+nav>* {
+    height: 80px;
+    min-width: 70px;
+    width:25%;
+    max-width: 140px;
+}
+
+nav button:hover {
+    transform: scale(110%);
+    transition: 60ms;
+}
+
+nav button {
+    height: 100%;
+    width: 100%;
+    padding: 0 !important;
+}
