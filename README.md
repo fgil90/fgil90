@@ -1,18 +1,22 @@
-<h1 align="center">Hi 👋, I'm Felipe</h1>
-<h3 align="center">A former Chemistry Teacher turned Developer from Brazil.</h3>
+<h1 align="left">Hey 👋 What's up?</h1>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=fgil90&label=Profile%20views&color=0e75b6&style=flat" alt="fgil90" /> </p>
+###
 
-- 🔭 I’m currently graduating in IT.
+<p align="left">Hi 👋, I'm Felipe<br>A former Chemistry Teacher turned Developer from Brazil.</p>
 
-- 🌱 I’m currently Working with Salesforce as a Consultant.
+###
 
-- 📫 You can reach me at **fgil90+dev@gmail.com or https://www.linkedin.com/in/felipe-gil-87b5b3209/**
+<h2 align="left">About me</h2>
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/felipe-gil-87b5b3209" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="felipe-gil-87b5b3209" height="30" width="40" /></a>
-</p>
+###
+
+<p align="left">- 🔭 I’m currently graduating in IT.<br><br>- 🌱 I’m currently Working with Salesforce as a Consultant.<br><br>- 📫 You can reach me at **fgil90+dev@gmail.com or https://www.linkedin.com/in/felipe-gil-87b5b3209/**</p>
+
+###
+
+<h2 align="left">I like to code with code with</h2>
+
+###
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo"  />
@@ -42,6 +46,4 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bitbucket/bitbucket-original.svg" height="40" alt="bitbucket logo"  />
 </div>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=fgil90&show_icons=true&theme=tokyonight&locale=en&layout=compact" alt="fgil90" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=fgil90&show_icons=true&theme=tokyonight&locale=en" alt="fgil90" /></p>
+###
